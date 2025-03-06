@@ -1,0 +1,90 @@
+{
+  "continent": [
+    {
+      "id": 1,
+      "name": "Azuralis",
+      "position": "Est",
+      "description": "Le Continent des Vents Éternels"
+    },
+    {
+      "id": 2,
+      "name": "Sylvanor",
+      "position": "Ouest",
+      "description": "Le Continent des Forêts Vivantes"
+    },
+    {
+      "id": 3,
+      "name": "Ignéosia",
+      "position": "Sud",
+      "description": "Le Continent des Flammes et des Cendres"
+    },
+    {
+      "id": 4,
+      "name": "Thalassia",
+      "position": "Nord",
+      "description": "Le Continent Submergé"
+    },
+    {
+      "id": 5,
+      "name": "Obscuria",
+      "position": "Sud-Est",
+      "description": "Le Continent des Ombres et des Mystères"
+    },
+    {
+      "id": 6,
+      "name": "Solarii",
+      "position": "Sud-Ouest",
+      "description": "Le Continent de la Lumière Brûlante"
+    },
+    {
+      "id": 7,
+      "name": "Erythros",
+      "position": "Nord-Est",
+      "description": "Le Continent Sanglant"
+    },
+    {
+      "id": 8,
+      "name": "Vasperis",
+      "position": "Nord-Ouest",
+      "description": "Le Continent cache"
+    },
+    {
+      "id": 9,
+      "name": "Valoria",
+      "position": "Centre",
+      "description": "Le Continent Centrale du monde"
+    }
+  ],
+  "city": [
+    {
+      "id": 1,
+      "name": "Lunareth",
+      "continent": "Sylvanor",
+      "description": "Une cité elfique cachée au cœur de la forêt, célèbre pour sa magie ancienne et ses jardins suspendus."
+    },
+    {
+      "id": 2,
+      "name": "Sylvagarde",
+      "continent": "Sylvanor",
+      "description": "Un village de druïdes qui préserve la nature et organise des festivals en l'honneur des esprits de la forêt."
+    },
+    {
+      "id": 3,
+      "name": "Faerwyn",
+      "continent": "Sylvanor",
+      "description": "Un hameau de faées qui vivent en harmonie avec les elfes, connus pour leur artisanat délicat."
+    },
+    {
+      "id": 4,
+      "name": "Elunara",
+      "continent": "Sylvanor",
+      "description": "Une ville des sorciers, où les elfes pratiquent la magie ancestrale et partagent leurs connaissances."
+    },
+    {
+      "id": 5,
+      "name": "Verdelune",
+      "continent": "Sylvanor",
+      "description": "Un village de guérisseurs qui exploitent les plantes médicinales de la forêt pour soigner."
+    }
+  ]
+}

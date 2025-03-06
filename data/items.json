@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Épée Légendaire",
+    "description": "Une épée magique forgée dans des flammes mystiques. Elle inflige des dégâts de feu.",
+    "effet": "Augmente les dégâts d'attaque de 50 et inflige des dégâts de feu."
+  },
+  {
+    "id": 2,
+    "name": "Potion de soin",
+    "description": "Une potion qui restaure des points de vie.",
+    "effet": "Restaure 30 points de vie."
+  }
+]

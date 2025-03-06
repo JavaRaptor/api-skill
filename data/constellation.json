@@ -1,0 +1,87 @@
+[
+  {
+    "nom": "Veda",
+    "constellations": [
+      {
+        "nom": "Mithra",
+        "description": "Mithra est la divinité de la lumière, de la vérité et du serment sacré. Les individus sous cette constellation possèdent une aura rayonnante qui inspire confiance et loyauté. Ils ont souvent des capacités de protection et de renforcement, étant capables d'éloigner les ténèbres et de briser les illusions.",
+        "Competence": ["Lumière Sacrée", "Serment Divin"]
+      },
+      {
+        "nom": "Varuna",
+        "description": "Varuna, gardien des océans et de la justice, offre à ses protégés une capacité de contrôle sur l’eau et un sens aigu de la vérité. Ils peuvent manipuler les marées et voir à travers les illusions les plus complexes.",
+        "Competence": ["Vague Purificatrice", "Œil de la Vérité"]
+      },
+      {
+        "nom": "Agni",
+        "description": "Agni, le feu sacré des rites védiques, accorde à ceux qui lui sont liés une affinité naturelle avec les flammes, leur permettant de purifier et de consumer les impuretés. Leur passion et leur force intérieure sont inébranlables.",
+        "Competence": ["Flammes Inextinguibles", "Incandescence Spirituelle"]
+      }
+    ]
+  },
+  {
+    "nom": "Eden",
+    "constellations": [
+      {
+        "nom": "Uriel",
+        "description": "Uriel est l'ange de la sagesse et du feu divin. Ceux qui portent cette constellation ont un esprit clair et éclairé, leur permettant d'obtenir une connaissance profonde et une capacité de jugement exceptionnelle. Ils sont également liés aux flammes sacrées, purifiant le mal et illuminant leur chemin.",
+        "Competence": ["Flamme du Jugement", "Sagesse Infinie"]
+      },
+      {
+        "nom": "Metatron",
+        "description": "Metatron est l'ange du savoir absolu et du lien entre le divin et l'humain. Les individus marqués par cette constellation possèdent une intelligence hors norme et la capacité d'accéder à des archives ancestrales. Ils peuvent aussi maîtriser des sorts complexes et déchiffrer des énigmes mystiques.",
+        "Competence": ["Grimoire Céleste", "Voix du Destin"]
+      },
+      {
+        "nom": "Raphaël",
+        "description": "Raphaël, l’ange guérisseur, bénit ceux qui lui sont liés d’un pouvoir de soin exceptionnel. Ils peuvent non seulement soigner les blessures physiques, mais aussi purifier les malédictions et apporter le réconfort aux âmes tourmentées.",
+        "Competence": ["Bénédiction Salvatrice", "Prière Régénérante"]
+      },
+      {
+        "nom": "Gabriel",
+        "description": "Gabriel, le messager divin, accorde à ses élus une voix porteuse de vérité. Ils possèdent un charisme unique qui leur permet d’inspirer les foules et d’influencer les esprits.",
+        "Competence": ["Voix Céleste", "Annonce Divine"]
+      }
+    ]
+  },
+  {
+    "nom": "Olympe",
+    "constellations": [
+      {
+        "nom": "Oedipe",
+        "description": "Œdipe représente le destin inévitable et la quête de vérité. Ceux qui lui sont liés développent une perception accrue de leur environnement, leur permettant de détecter les mensonges et de pressentir des événements futurs. Cependant, leur vie est souvent marquée par des épreuves complexes.",
+        "Competence": ["Vision du Destin", "Déchiffrement Instinctif"]
+      },
+      {
+        "nom": "Dionysos",
+        "description": "Dionysos, dieu du vin et de la fête, confère à ses protégés une grande vitalité, une capacité à influencer les émotions et un talent pour la manipulation subtile. Ils sont aussi capables de résister aux poisons et d'utiliser l'ivresse comme une arme pour perturber leurs adversaires.",
+        "Competence": ["Ivresse Mystique", "Manipulation Festive"]
+      },
+      {
+        "nom": "Persephone",
+        "description": "Perséphone, reine des Enfers et déesse du renouveau, donne à ceux sous son étoile une connexion aux cycles de vie et de mort. Ils peuvent manipuler l'énergie vitale, se régénérer après des blessures graves et même interagir avec les âmes errantes.",
+        "Competence": ["Éveil des Âmes", "Renouveau Sombre"]
+      },
+      {
+        "nom": "Zeus",
+        "description": "Zeus, roi des dieux, accorde à ses élus une puissance écrasante et une autorité naturelle. Ils maîtrisent la foudre et possèdent une présence dominante, leur permettant d’inspirer ou d’intimider ceux qui les entourent.",
+        "Competence": ["Colère Divine", "Souveraineté Absolue"]
+      },
+      {
+        "nom": "Athéna",
+        "description": "Athéna, déesse de la sagesse et de la stratégie, confère à ses protégés une intelligence tactique hors du commun. Ils excellent dans l'art du combat et de la planification, surpassant leurs adversaires par leur ruse et leur discipline.",
+        "Competence": ["Stratégie Infaillible", "Savoir Martial"]
+      },
+      {
+        "nom": "Hadès",
+        "description": "Hadès, souverain des Enfers, accorde à ses élus un pouvoir sur les ombres et les âmes perdues. Ils peuvent invoquer des spectres et résister aux influences néfastes des autres entités surnaturelles.",
+        "Competence": ["Invocation Spectrale", "Résistance Obscure"]
+      },
+      {
+        "nom": "Arès",
+        "description": "Arès, dieu de la guerre, bénit ses protégés d'une force et d'une férocité inégalées. Ils sont des combattants implacables, leur rage alimentant leur endurance et leur puissance martiale.",
+        "Competence": ["Furie Guerrière", "Indomptable"]
+      }
+    ]
+  }
+]

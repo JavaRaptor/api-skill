@@ -1,0 +1,373 @@
+[
+  {
+    "id": 1,
+    "name": "Mage",
+    "base_class": "Mage",
+    "description": "Un maître des éléments et de la magie.",
+    "rank": "Standard"
+  },
+  {
+    "id": 2,
+    "name": "Chasseur",
+    "base_class": "Chasseur",
+    "description": "Un expert dans l'utilisation de l'arc et des pièges, agile et furtif.",
+    "rank": "Standard"
+  },
+  {
+    "id": 3,
+    "name": "Guerrier",
+    "base_class": "Guerrier",
+    "description": "Un combattant puissant et résistant, utilisant des armes lourdes et une armure robuste.",
+    "rank": "Standard"
+  },
+  {
+    "id": 4,
+    "name": "Lancier",
+    "base_class": "Lancier",
+    "description": "Un combattant spécialisé dans les attaques à distance avec une lance.",
+    "rank": "Standard"
+  },
+  {
+    "id": 5,
+    "name": "Archer",
+    "base_class": "Archer",
+    "description": "Un tireur d'élite utilisant l'arc, capable de toucher ses ennemis à grande distance.",
+    "rank": "Standard"
+  },
+  {
+    "id": 6,
+    "name": "Voleur",
+    "base_class": "Voleur",
+    "description": "Un maître du vol et des attaques furtives, spécialiste des poisons et des dagues.",
+    "rank": "Standard"
+  },
+  {
+    "id": 7,
+    "name": "Prêtre",
+    "base_class": "Prêtre",
+    "description": "Un soigneur et un soutien spirituel, capable de guérir et de protéger ses alliés.",
+    "rank": "Standard"
+  },
+  {
+    "id": 8,
+    "name": "Artisant",
+    "base_class": "Artisant",
+    "description": "Un artisan polyvalent capable de créer des objets utiles et des équipements de qualité.",
+    "rank": "Standard"
+  },
+  {
+    "id": 9,
+    "name": "Archer Elementaire",
+    "base_class": "Archer",
+    "description": "Un maître de l'arc qui a appris à exploiter les éléments naturels pour améliorer ses attaques.",
+    "rank": "Standard"
+  },
+  {
+    "id": 10,
+    "name": "Exorciste",
+    "base_class": "Chasseur",
+    "description": "Un spécialiste de la purification et de l'exorcisme, capable de bannir les esprits maléfiques et de restaurer l'équilibre.",
+    "rank": "Upgrade"
+  },
+  {
+    "id": 11,
+    "name": "Chasseur de démons",
+    "base_class": "Chasseur",
+    "description": "Un traqueur impitoyable d'entités démoniaques, armé d'armes bénies et de connaissances interdites.",
+    "rank": "Upgrade"
+  },
+  {
+    "id": 12,
+    "name": "Cuisinier",
+    "base_class": "Artisan",
+    "description": "Un expert dans l'art culinaire, capable de créer des plats qui restaurent la santé, augmentent les statistiques ou apportent des effets magiques.",
+    "rank": "Upgrade"
+  },
+  {
+    "id": 13,
+    "name": "Mineur",
+    "base_class": "Artisan",
+    "description": "Un collecteur des ressources précieuses sous terre, capable de trouver des matériaux rares et d'exploiter les mines pour obtenir des matériaux puissants.",
+    "rank": "Upgrade"
+  },
+  {
+    "id": 14,
+    "name": "Bûcheron",
+    "base_class": "Artisan",
+    "description": "Un artisan qui exploite la forêt, maîtrisant l'art de couper et d'utiliser le bois pour créer des armes, des outils et des constructions.",
+    "rank": "Upgrade"
+  },
+  {
+    "id": 15,
+    "name": "Architecte",
+    "base_class": "Artisan",
+    "description": "Un maître de la conception et de la construction, capable de créer des structures défensives et des infrastructures complexes.",
+    "rank": "Upgrade"
+  },
+  {
+    "id": 16,
+    "name": "Marchand",
+    "base_class": "Artisan",
+    "description": "Un négociant habile, capable de vendre des objets rares et de maximiser les profits, apportant une richesse à son groupe.",
+    "rank": "Upgrade"
+  },
+  {
+    "id": 17,
+    "name": "Alchimiste",
+    "base_class": "Artisan",
+    "description": "Un spécialiste des potions et des transmutations, capable de transformer des éléments et de créer des remèdes puissants.",
+    "rank": "Upgrade"
+  },
+  {
+    "id": 18,
+    "name": "Forgeron",
+    "base_class": "Artisan",
+    "description": "Un maître de la forge, capable de créer des armes et armures légendaires, d'améliorer les équipements et de réparer les objets brisés.",
+    "rank": "Upgrade"
+  },
+  {
+    "id": 19,
+    "name": "Chaman",
+    "base_class": "Prêtre",
+    "description": "Un médium spirituel capable de communiquer avec les esprits, invoquer des esprits de la nature et soigner grâce à la magie sacrée.",
+    "rank": "Upgrade"
+  },
+  {
+    "id": 20,
+    "name": "Pugiliste",
+    "base_class": "Prêtre",
+    "description": "Un combattant sans armes, expert dans le combat à mains nues et l'utilisation de techniques de combat rapproché.",
+    "rank": "Upgrade"
+  },
+  {
+    "id": 21,
+    "name": "Guérisseur",
+    "base_class": "Prêtre",
+    "description": "Un maître des arts curatifs, capable de guérir les blessures graves et d'apporter une protection divine à ses alliés.",
+    "rank": "Upgrade"
+  },
+  {
+    "id": 22,
+    "name": "Barde",
+    "base_class": "Prêtre",
+    "description": "Un maître de la musique et de la poésie, capable d'inspirer ses alliés, de renforcer leurs capacités et d'affaiblir ses ennemis par la musique.",
+    "rank": "Upgrade"
+  },
+  {
+    "id": 23,
+    "name": "Druide",
+    "base_class": "Prêtre",
+    "description": "Un protecteur de la nature, capable de se transformer en créature animale et d'utiliser les forces de la nature pour contrôler l'environnement.",
+    "rank": "Upgrade"
+  },
+  {
+    "id": 24,
+    "name": "Dragonnier",
+    "base_class": "Lancier",
+    "description": "Un combattant spécialisé dans le combat monté, capable de dompter et de combattre aux côtés de dragons puissants.",
+    "rank": "Upgrade"
+  },
+  {
+    "id": 25,
+    "name": "Gardien",
+    "base_class": "Lancier",
+    "description": "Un défenseur du groupe, capable de protéger ses alliés grâce à sa forte résistance et sa maîtrise des boucliers et des tactiques de défense.",
+    "rank": "Upgrade"
+  },
+  {
+    "id": 26,
+    "name": "Ninja",
+    "base_class": "Voleur",
+    "description": "Un maître de la furtivité et des techniques d'assassinat, capable de disparaître dans les ombres et de frapper avec une grande rapidité.",
+    "rank": "Upgrade"
+  },
+  {
+    "id": 27,
+    "name": "Pirate",
+    "base_class": "Voleur",
+    "description": "Un aventurier audacieux des mers, maître du combat à distance et des attaques surprenantes, connu pour son esprit de camaraderie et ses trésors.",
+    "rank": "Upgrade"
+  },
+  {
+    "id": 28,
+    "name": "Mousquetaire",
+    "base_class": "Archer",
+    "description": "Un tireur d'élite avec une arme à feu, capable de soutenir ses alliés tout en frappant à distance avec une grande précision.",
+    "rank": "Upgrade"
+  },
+  {
+    "id": 29,
+    "name": "Dresseur",
+    "base_class": "Archer",
+    "description": "Un spécialiste de la capture et de l'éducation des créatures, capable de les apprivoiser et de les utiliser en combat.",
+    "rank": "Upgrade"
+  },
+  {
+    "id": 30,
+    "name": "Barbares",
+    "base_class": "Guerrier",
+    "description": "Des guerriers sauvages, capables d'encaisser les coups et d'infliger des dégâts massifs avec leur force brute.",
+    "rank": "Upgrade"
+  },
+  {
+    "id": 31,
+    "name": "Viking",
+    "base_class": "Guerrier",
+    "description": "Des combattants du nord, maîtres des armes à deux mains et de la navigation, ayant une grande résistance et un esprit de conquête.",
+    "rank": "Upgrade"
+  },
+  {
+    "id": 32,
+    "name": "Samouraï",
+    "base_class": "Guerrier",
+    "description": "Un guerrier d'élite, portant une armure traditionnelle et maîtrisant l'art du katana avec honneur et discipline.",
+    "rank": "Upgrade"
+  },
+  {
+    "id": 33,
+    "name": "Paladin",
+    "base_class": "Guerrier",
+    "description": "Un chevalier sacré, défenseur de la justice, capable de soigner ses alliés tout en frappant ses ennemis avec une force divine.",
+    "rank": "Upgrade"
+  },
+  {
+    "id": 34,
+    "name": "Artiste Martial",
+    "base_class": "Guerrier",
+    "description": "Un combattant agile et habile dans l'utilisation des arts martiaux, capable de vaincre ses ennemis à mains nues avec style et efficacité.",
+    "rank": "Upgrade"
+  },
+  {
+    "id": 35,
+    "name": "Valkyrie",
+    "base_class": "Guerrier",
+    "description": "Une guerrière céleste, capable de voler et d'attaquer avec une grande agilité tout en protégeant ses alliés des forces du mal.",
+    "rank": "Upgrade"
+  },
+  {
+    "id": 36,
+    "name": "Berserker",
+    "base_class": "Guerrier",
+    "description": "Un combattant enragé, capable d'entrer dans une frénésie de combat, augmentant sa force et sa résistance de manière exponentielle.",
+    "rank": "Upgrade"
+  },
+  {
+    "id": 37,
+    "name": "Invocateur",
+    "base_class": "Mage",
+    "description": "Un mage spécialisé dans l'invocation de créatures puissantes, capables de manipuler d'autres entités pour l'aider en combat.",
+    "rank": "Upgrade"
+  },
+  {
+    "id": 38,
+    "name": "Enchanteur",
+    "base_class": "Mage",
+    "description": "Un maître de la magie de l'enchantement, capable de renforcer les objets et d'altérer les capacités de ses alliés ou ennemis.",
+    "rank": "Upgrade"
+  },
+  {
+    "id": 39,
+    "name": "Érudit",
+    "base_class": "Mage",
+    "description": "Un expert en magie ancienne et en savoirs interdits, capable de décrypter les secrets des arcanes et d'utiliser des sorts complexes.",
+    "rank": "Upgrade"
+  },
+  {
+    "id": 40,
+    "name": "Mage de Sang",
+    "base_class": "Mage",
+    "description": "Un mage utilisant le sang pour alimenter ses pouvoirs, capable de sacrifier sa propre vitalité pour obtenir de la puissance.",
+    "rank": "Upgrade"
+  },
+  {
+    "id": 41,
+    "name": "Archimage",
+    "base_class": "Élémentaliste",
+    "description": "Un mage suprême, capable de manier la magie élémentaire et de déployer des sorts d'une puissance inimaginable.",
+    "rank": "Upgrade"
+  },
+  {
+    "id": 42,
+    "name": "Élémentaliste",
+    "base_class": "Mage",
+    "description": "Un mage capable de manipuler les quatre éléments pour créer des attaques dévastatrices et des protections puissantes.",
+    "rank": "Upgrade"
+  },
+  {
+    "id": 43,
+    "name": "Archer Elementaire",
+    "base_class": "Archer",
+    "description": "Un archer capable d'utiliser les éléments pour améliorer ses tirs et infliger des dégâts supplémentaires basés sur la nature.",
+    "rank": "Upgrade"
+  },
+  {
+    "id": 44,
+    "name": "Cannibale",
+    "base_class": "Cannibale",
+    "description": "Peut évoluer en tuant des joueurs seulement, une créature vorace qui gagne en puissance avec chaque victime.",
+    "rank": "Spécial"
+  },
+  {
+    "id": 45,
+    "name": "Upgrader",
+    "base_class": "Upgrader",
+    "description": "N'a pas de limite de niveau pour ses compétences, mais elles sont 15 fois plus difficiles à augmenter",
+    "rank": "Spécial"
+  },
+  {
+    "id": 46,
+    "name": "Démoniste",
+    "base_class": "Démoniste",
+    "description": "Peut obtenir des compétences en faisant des pactes avec des démons, en contrepartie il a des debuffs",
+    "rank": "Spécial"
+  },
+  {
+    "id": 47,
+    "name": "Faucheur",
+    "base_class": "Faucheur",
+    "description": "Augmente la stat de mana à force de tuer des êtres vivants, une entité de mort capable de manipuler la magie en sacrifiant des vies.",
+    "rank": "Spécial"
+  },
+  {
+    "id": 48,
+    "name": "Bourreau",
+    "base_class": "Bourreau",
+    "description": "Un exécuteur impitoyable, capable de condamner à mort ses ennemis avec des techniques brutales et une puissance écrasante.",
+    "rank": "Spécial"
+  },
+  {
+    "id": 49,
+    "name": "Gourmand",
+    "base_class": "Gourmand",
+    "description": " Les aliments lui rapportent un namebre de stats, un dévoreur insatiable qui transforme la nourriture en pouvoir.",
+    "rank": "Spécial"
+  },
+  {
+    "id": 50,
+    "name": "Maître",
+    "base_class": "Maître",
+    "description": "Selon certaines conditions, on peut devenir un maître dans une spécialité",
+    "rank": "Spécial"
+  },
+  {
+    "id": 51,
+    "name": "Indépendant",
+    "base_class": "Indépendant",
+    "description": "Peut utiliser toutes les compétences de toutes les classes mais ne peut pas faire de groupe et son niveau augmente 50 fois moins vite, un solitaire doté de multiples talents mais d'une progression lente.",
+    "rank": "Spécial"
+  },
+  {
+    "id": 52,
+    "name": "Successeur",
+    "base_class": "Successeur",
+    "description": "Un successeur par légende, une entité mythique qui incarne l'héritage d'un héros ou d'une figure légendaire, portant un grand pouvoir.",
+    "rank": "Unique"
+  },
+  {
+    "id": 53,
+    "name": "Apôtre",
+    "base_class": "Apôtre",
+    "description": "Obtient les pouvoirs d'un dieu, un élu qui porte la bénédiction divine et manie des pouvoirs qui dépassent l'entendement humain.",
+    "rank": "Unique"
+  }
+]
